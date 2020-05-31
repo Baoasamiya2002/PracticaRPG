@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ingresa_nombre">Ingresa nombre</string>
+    <string name="empezar_juego_nuevo">Empezar juego nuevo</string>
+    <string name="enviar"/>
+</resources>
